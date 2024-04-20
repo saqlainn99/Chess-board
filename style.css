@@ -1,0 +1,19 @@
+*{
+    margin: 10;
+    padding: 0;
+}
+table{
+    border: 15px solid maroon;
+    width: 500px;
+    height: 500px;
+    margin: auto;
+}
+.Black{
+    background-color: maroon;
+    color: maroon;
+    width: 50px;
+}
+.white{
+    color: white;
+    background-color: white;
+}
